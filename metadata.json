@@ -1,0 +1,5 @@
+{
+  "name": "Copy of GPS No 1 Bazar Management",
+  "description": "A comprehensive primary school management system for GPS No 1 Bazar. Manages student profiles across 5 grades, tracks academic performance for two semesters, visualizes progress, and allows bulk data management via CSV.",
+  "requestFramePermissions": []
+}
